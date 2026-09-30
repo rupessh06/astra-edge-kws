@@ -1,0 +1,5 @@
+{
+    "silence": 0,
+    "unknown": 1,
+    "wakeword": 2
+}

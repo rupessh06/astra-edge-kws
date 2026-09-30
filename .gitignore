@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+kws-env/
+venv/
+.venv/
+env/
+
+# Large Speech Commands dataset
+speech_commands/
+speech_commands_v0.02.tar.gz
+
+# Generated conversion directories
+tflite_output/
+tflite_output_int8/
+
+# Local IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / temporary files
+*.log
+*.tmp
+*.temp
